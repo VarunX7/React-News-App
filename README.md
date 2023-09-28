@@ -1,6 +1,5 @@
 # The Notice Board 
 
-<<<<<<< HEAD
 It is a news app that uses an api to get news. The API can be found on https://newsapi.org/.
 
 # To get started...
